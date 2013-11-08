@@ -3,7 +3,7 @@
 /*
 
 Student: Raul Medina
-October 2, 2013
+November 8, 2013
 Version: 1.0A
 Assignment: 
 WPF-1
@@ -12,13 +12,11 @@ WPF-1
 */
 
 
-var pizzaPie = 10;
+var playersPerTeam = 22;
 
-var pieSlice = pizzaPie * 6;
+var soccerTeams = 32;
 
-var partyMembers = 15;
-
-var x = pieSlice/partyMembers;
+var x = dirtyShirts * soccerTeams;
 
 
 

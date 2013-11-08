@@ -12,17 +12,18 @@ WPF-1
 */
 
 
-var pizzaPie = 10;
+var sodaCase = 2;
 
-var pieSlice = pizzaPie * 6;
+var cansPerCase = sodaCase * 12;
 
-var partyMembers = 15;
+var soccerPlayers = 15;
 
-var x = pieSlice/partyMembers;
+var x = cansPerCase/soccerPlayers;
 
 
 
 console.log(x);
+
 
 
 

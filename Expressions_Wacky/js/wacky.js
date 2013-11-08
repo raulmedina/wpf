@@ -23,7 +23,7 @@ var miles = 5;
 
 var average = (pinkPunchBuggy + redPumchBuggy +whitePunchBuggy)/miles;
 
-
+//average punch byggy per 5 mile radius
 
 console.log(average);
 

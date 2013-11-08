@@ -4,7 +4,7 @@
 
 Student: Raul Medina
 October 2, 2013
-Version: 1.0A
+Version: 1.1A
 Assignment: Personal
 WPF-1
 

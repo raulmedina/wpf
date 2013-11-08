@@ -17,7 +17,7 @@ var playersPerTeam = 22;
 
 var soccerTeams = 32;
 
-var x = dirtyShirts * soccerTeams;
+var x = playersPerTeam * soccerTeams;
 
 
 

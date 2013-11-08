@@ -14,9 +14,9 @@ WPF-1
 
 var pinkPunchBuggy = 5;
 
-var redPumchBuggy = 2;
+var redPumchBuggy = 9;
 
-var whitePunchBuggy = 3;
+var whitePunchBuggy = 4;
 
 var miles = 5;
 

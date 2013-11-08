@@ -5,7 +5,7 @@
 Student: Raul Medina
 November 8, 2013
 Version: 1.0A
-Assignment: 
+Assignment: Industry
 WPF-1
 
 

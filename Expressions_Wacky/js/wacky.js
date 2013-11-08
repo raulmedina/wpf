@@ -12,15 +12,20 @@ WPF-1
 */
 
 
-var playersPerTeam = 22;
+var pinkPunchBuggy = 5;
 
-var soccerTeams = 32;
+var redPumchBuggy = 2;
 
-var x = dirtyShirts * soccerTeams;
+var whitePunchBuggy = 3;
+
+var miles = 5;
+
+
+var average = (pinkPunchBuggy + redPumchBuggy +whitePunchBuggy)/miles;
 
 
 
-console.log(x);
+console.log(average);
 
 
 

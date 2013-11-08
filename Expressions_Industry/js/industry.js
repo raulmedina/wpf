@@ -20,7 +20,7 @@ var x = dirtyShirts * soccerTeams;
 
 
 
-console.log(x);
+console.log(x); 
 
 
 

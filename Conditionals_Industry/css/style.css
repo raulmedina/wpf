@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document 
+
+Student: Raul Medina
+October 2, 2013
+Version: 1.0A
+Assignment: 
+WPF-1
+
+*/
+
+body{
+	
+	background:orange;
+	
+	}
+	
+#hello {
+	
+	text-align:center;
+	color:#444;
+	font-size:32px;
+	font-family:Helvetica
+	padding-top:150px;
+	
+	
+	}
